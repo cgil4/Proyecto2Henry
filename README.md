@@ -22,7 +22,7 @@ Se realiza la **categorización** de las propiedades entre baratas o caras, cons
 ​
 ## Entrega
 ​
-Se entrega el código en Jupyter Notebook .ipynb, Inclueyendoi el EDA, feature engineerging y procesamiento de datos que se consideraron necesario. Se explican claramente cada paso realizado mediante comentarios en el Notebook, 
+Se entrega el código en Jupyter Notebook .ipynb, Incluyendo el EDA, feature engineerging y procesamiento de datos que se consideraron necesario. Se explican claramente cada paso realizado mediante comentarios en el Notebook, 
 ​
 Se envia el repositorio con el proyecto
 ​
